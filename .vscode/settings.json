@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.tf": "terraform",
-        "*.ign": "json",
-        "iostream": "cpp"
-    }
-}
