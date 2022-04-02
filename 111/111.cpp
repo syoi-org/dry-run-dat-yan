@@ -86,7 +86,7 @@ int main() {
     t.push_back("4177793");
     string s = "3848035";
     if (m == 1) {
-        cout << -1 << endl;
+        cout << -1;
         return 0;
     }
     for (auto &ti : t) for (auto &c : ti) c -= '0';
