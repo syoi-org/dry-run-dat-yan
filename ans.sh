@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 diff="000 001 010 011 100 101 110 111"
 
